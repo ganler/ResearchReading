@@ -5,3 +5,7 @@ I started to put paper/course summaries on GitHub Issues from Aug. 2020. This is
 **See issues.**
 
 Fields: System, and Machine Learning.
+
+## Other great reading list
+
+* https://jeongseob.github.io/readings_mlsys.html
